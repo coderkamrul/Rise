@@ -5,7 +5,7 @@ import { Toaster } from "@/components/ui/toaster";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Discipline Pri - Daily Task Tracker",
+  title: "Discipline Self - Daily Task Tracker",
   description: "Track your daily discipline tasks and build better habits",
   generator: "v0.dev",
 };
